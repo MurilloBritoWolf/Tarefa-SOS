@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = "build/SOS.hex"
-elf = "build/SOS.elf"
